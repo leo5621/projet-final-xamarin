@@ -6,6 +6,7 @@ namespace ProjetNote
 {
     public partial class App : Application
     {
+        public static User user { get; set; }
         public App()
         {
             InitializeComponent();

@@ -7,10 +7,9 @@
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Entry Placeholder="Login"/>
-        <Entry Placeholder="Mot de passe" IsPassword="true"/>
+        <Entry Placeholder="Login" x:Name="login"/>
+        <Entry Placeholder="Mot de passe" x:Name="pwd" IsPassword="true"/>
         <Button x:Name="Connexion" Text="Connexion" Clicked="Button_Clicked" />
-        <Button Text="Notes" Clicked="Button_Clicked_1"/>
     </StackLayout>
 
 </ContentPage>

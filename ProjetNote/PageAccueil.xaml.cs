@@ -10,16 +10,16 @@ using Xamarin.Forms.Xaml;
 namespace ProjetNote
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Notes : ContentPage
+    public partial class PageAccueil : ContentPage
     {
-        public Notes()
+        public PageAccueil()
         {
             InitializeComponent();
         }
 
         private async void Button_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PopModalAsync(true);
+            await Navigation.PushModalAsync(new Notes(), true);
 
         }
     }
