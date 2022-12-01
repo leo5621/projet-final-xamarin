@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ProjetNote.PageAccueil">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-            <Button Text="Notes" Clicked="Button_Clicked"/>
-        </StackLayout>
-    </ContentPage.Content>
-</ContentPage>
+             x:Class="ProjetNote.PageAccueil" >
+    
+    
+    <ContentPage Title="Accueil-IMC">
+        <Label Text="page1"/>
+    </ContentPage>
+    <ContentPage Title="Accueil-Liste" x:Name="AccueilListe" >
+        <Label Text="page2"/>
+    </ContentPage>
+    <ContentPage Title="Accueil-BlocNote">
+        <Label Text="page3"/>
+    </ContentPage>
+    
+</CarouselPage>

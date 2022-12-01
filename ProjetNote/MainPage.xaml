@@ -1,15 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ProjetNote.MainPage">
-
-    <StackLayout>
-        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
-        </Frame>
-        <Entry Placeholder="Login" x:Name="login"/>
+             x:Class="ProjetNote.MainPage" BackgroundColor="AntiqueWhite" Padding="15">
+    
+    <StackLayout VerticalOptions="Center" Padding="25" BackgroundColor="CadetBlue">
+    <Entry Placeholder="Login" x:Name="login"/>
         <Entry Placeholder="Mot de passe" x:Name="pwd" IsPassword="true"/>
         <Button x:Name="Connexion" Text="Connexion" Clicked="Button_Clicked" />
     </StackLayout>
-
 </ContentPage>

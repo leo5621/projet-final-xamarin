@@ -11,7 +11,7 @@ namespace ProjetNote
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new PageAccueil();
         }
 
         protected override void OnStart()

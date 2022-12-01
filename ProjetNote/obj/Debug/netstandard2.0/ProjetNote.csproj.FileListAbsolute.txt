@@ -13,3 +13,24 @@ C:\Users\elian\source\repos\ProjetNote\ProjetNote\obj\Debug\netstandard2.0\Proje
 C:\Users\elian\source\repos\ProjetNote\ProjetNote\obj\Debug\netstandard2.0\refint\ProjetNote.dll
 C:\Users\elian\source\repos\ProjetNote\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.pdb
 C:\Users\elian\source\repos\ProjetNote\ProjetNote\obj\Debug\netstandard2.0\ref\ProjetNote.dll
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\bin\Debug\netstandard2.0\ProjetNote.deps.json
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\bin\Debug\netstandard2.0\ProjetNote.dll
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\bin\Debug\netstandard2.0\ProjetNote.pdb
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.csproj.AssemblyReference.cache
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\FicheRdv.xaml.g.cs
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\Grossesse.xaml.g.cs
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\Imc.xaml.g.cs
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\Notes.xaml.g.cs
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\PageAccueil.xaml.g.cs
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\RisqueVasculaire.xaml.g.cs
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.AssemblyInfoInputs.cache
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.AssemblyInfo.cs
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.csproj.CoreCompileInputs.cache
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.dll
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\refint\ProjetNote.dll
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.pdb
+D:\Visual STUDIO XAMARIN\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ref\ProjetNote.dll

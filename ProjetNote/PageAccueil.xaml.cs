@@ -10,17 +10,16 @@ using Xamarin.Forms.Xaml;
 namespace ProjetNote
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class PageAccueil : ContentPage
+    public partial class PageAccueil : CarouselPage
     {
         public PageAccueil()
         {
             InitializeComponent();
-        }
 
-        private async void Button_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushModalAsync(new Notes(), true);
+            this.SelectedItem = AccueilListe; // Caroussel page du milieu
 
         }
+
+
     }
 }

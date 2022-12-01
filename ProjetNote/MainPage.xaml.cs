@@ -32,7 +32,7 @@ namespace ProjetNote
             {
                 var currentLogin = JsonConvert.DeserializeObject<User>(asyncResponse.Content);
                 App.user = currentLogin;
-                await Navigation.PushModalAsync(new PageAccueil(),true);
+                await Navigation.PushModalAsync(new PageAccueil(), true);
             }
             else
             {
