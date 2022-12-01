@@ -4,9 +4,14 @@
              x:Class="ProjetNote.FicheRdv">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Fiche de rendez-vous" FontSize="Large"/>
+            <Label Text="Date" x:Name="Lb_heure"/>
+            <Label Text="Libelle" x:Name="Lb_Libelle"/>
+            <Label Text="Durée" x:Name="Lb_duree"/>
+            <Label Text="Urgence" x:Name="Lb_urgence"/>
+            <Label Text="Nom du patient" x:Name="Lb_Patient"/>
+            <Button Text="Accepter" x:Name="Bt_valider"/>
+            <Label Text="" x:Name="Lb_patientPris"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -4,7 +4,7 @@ using System.Windows;
 using System.Collections.Generic;
 using System.Drawing;
 
-namespace GammePremier.extension.SCORE
+namespace ProjetNote
 {
     internal class SCORE2ESC
     {
