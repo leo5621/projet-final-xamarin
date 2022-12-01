@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ProjetNote.App.xaml", "App.xaml", typeof(global::ProjetNote.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ProjetNote.PageAccueil.xaml", "PageAccueil.xaml", typeof(global::ProjetNote.PageAccueil))]
 
 namespace ProjetNote {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("App.xaml")]
-    public partial class App : global::Xamarin.Forms.Application {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("PageAccueil.xaml")]
+    public partial class PageAccueil : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(App));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(PageAccueil));
         }
     }
 }
