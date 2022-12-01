@@ -927,23 +927,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\elian\\.nuget\\packages\\": {},
+    "C:\\Users\\Elian\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elian\\source\\repos\\projet-final-xamarin\\ProjetNote\\ProjetNote.csproj",
+      "projectUniqueName": "C:\\Users\\Elian\\Documents\\_Projets\\2\\projet-final-xamarin\\ProjetNote\\ProjetNote.csproj",
       "projectName": "ProjetNote",
-      "projectPath": "C:\\Users\\elian\\source\\repos\\projet-final-xamarin\\ProjetNote\\ProjetNote.csproj",
-      "packagesPath": "C:\\Users\\elian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elian\\source\\repos\\projet-final-xamarin\\ProjetNote\\obj\\",
+      "projectPath": "C:\\Users\\Elian\\Documents\\_Projets\\2\\projet-final-xamarin\\ProjetNote\\ProjetNote.csproj",
+      "packagesPath": "C:\\Users\\Elian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elian\\Documents\\_Projets\\2\\projet-final-xamarin\\ProjetNote\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\elian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1008,5 +1008,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Elian\\Documents\\_Projets\\2\\projet-final-xamarin\\ProjetNote\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -15,5 +15,9 @@ namespace ProjetNote
         {
 
         }
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }

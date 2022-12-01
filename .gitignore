@@ -1,2 +1,5 @@
 ProjetNote.Android/
 .vs/
+*.cache
+*.cache
+*.zip

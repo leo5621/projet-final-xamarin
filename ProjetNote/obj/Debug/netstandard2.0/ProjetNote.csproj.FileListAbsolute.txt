@@ -34,3 +34,27 @@ C:\Users\elian\source\repos\projet-final-xamarin\ProjetNote\obj\Debug\netstandar
 C:\Users\elian\source\repos\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\refint\ProjetNote.dll
 C:\Users\elian\source\repos\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.pdb
 C:\Users\elian\source\repos\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ref\ProjetNote.dll
+<<<<<<< Updated upstream
+=======
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\bin\Debug\netstandard2.0\ProjetNote.deps.json
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\bin\Debug\netstandard2.0\ProjetNote.dll
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\bin\Debug\netstandard2.0\ProjetNote.pdb
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.csproj.AssemblyReference.cache
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\FicheRdv.xaml.g.cs
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\Grossesse.xaml.g.cs
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\Imc.xaml.g.cs
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\Notes.xaml.g.cs
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\PageAccueil.xaml.g.cs
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\RisqueVasculaire.xaml.g.cs
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.AssemblyInfoInputs.cache
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.AssemblyInfo.cs
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.csproj.CoreCompileInputs.cache
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.dll
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\refint\ProjetNote.dll
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.pdb
+C:\Users\Elian\Documents\_Projets\2\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ref\ProjetNote.dll
+>>>>>>> Stashed changes
