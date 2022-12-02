@@ -13,3 +13,24 @@ C:\Users\elian\source\repos\ProjetNote\ProjetNote\obj\Debug\netstandard2.0\Proje
 C:\Users\elian\source\repos\ProjetNote\ProjetNote\obj\Debug\netstandard2.0\refint\ProjetNote.dll
 C:\Users\elian\source\repos\ProjetNote\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.pdb
 C:\Users\elian\source\repos\ProjetNote\ProjetNote\obj\Debug\netstandard2.0\ref\ProjetNote.dll
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.csproj.AssemblyReference.cache
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\FicheRdv.xaml.g.cs
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\Grossesse.xaml.g.cs
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\Imc.xaml.g.cs
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\Notes.xaml.g.cs
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\PageAccueil.xaml.g.cs
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\RisqueVasculaire.xaml.g.cs
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.AssemblyInfoInputs.cache
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.AssemblyInfo.cs
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.csproj.CoreCompileInputs.cache
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.dll
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\refint\ProjetNote.dll
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ProjetNote.pdb
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\bin\Debug\netstandard2.0\ProjetNote.deps.json
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\bin\Debug\netstandard2.0\ProjetNote.dll
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\bin\Debug\netstandard2.0\ProjetNote.pdb
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\leobo\Desktop\Cours\xamarin\Projet fin\projet-final-xamarin\ProjetNote\obj\Debug\netstandard2.0\ref\ProjetNote.dll

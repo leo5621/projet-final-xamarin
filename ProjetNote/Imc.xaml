@@ -4,9 +4,28 @@
              x:Class="ProjetNote.Imc">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Calcul de l'IMC" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+
+            <StackLayout>
+                <Label x:Name="tailleLabel" Text="Taille en cm"/>
+                <Entry x:Name="tailleEntry"
+                    Keyboard="Numeric" />
+            </StackLayout>
+
+            <StackLayout>
+                <Label x:Name="poidsLabel" Text="Poids en Kg"/>
+                <Entry x:Name="poidsEntry"
+                    Keyboard="Numeric" />
+            </StackLayout>
+
+            <Button x:Name="calculerButton" Text="Calculer" Clicked="calculerButton_Clicked"/>
+
+            <Image x:Name="photoIMC" Source="" WidthRequest="75"/>
+
+            <Label x:Name="resultatCalculImc" Text="" FontSize="Title" Padding="30,10,30,10" HorizontalTextAlignment="Center"/>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
